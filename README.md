@@ -13,4 +13,4 @@
 
 ## Screenshot
 
-![Architect Screenshot](andrzejhypki-screenshot.png?raw=true "Andrzej Hypki Architect Site")
+![Architect Screenshot](andrzej-hypki-screenshot.png?raw=true "Andrzej Hypki Architect Site")
