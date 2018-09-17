@@ -3053,9 +3053,21 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
 }
 
 /* map */
-.map {
-    height: 400px;
+
+.map-frame {
     width: 100%;
+    height: 400px;
+    position: relative;
+}
+
+.map-content {
+    z-index: 10;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 390px;
+    background-color: black;
+    color: #FFF;
 }
 
 /* contact-info */
