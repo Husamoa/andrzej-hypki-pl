@@ -12,5 +12,4 @@
 > - JQuery
 
 ## Screenshot
-
-![Architect Screenshot](andrzej-hypki-screenshot.png?raw=true "Andrzej Hypki Architect Site")
+![](hypkigif.gif)
